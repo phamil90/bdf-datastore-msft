@@ -1,0 +1,12 @@
+**/raw/**/*.csv filter=lfs diff=lfs merge=lfs -text
+**/raw/**/*.mpt filter=lfs diff=lfs merge=lfs -text
+**/raw/**/*.ccs filter=lfs diff=lfs merge=lfs -text
+**/raw/**/*.parquet filter=lfs diff=lfs merge=lfs -text
+**/raw/**/*.nda filter=lfs diff=lfs merge=lfs -text
+**/raw/**/*.ndx filter=lfs diff=lfs merge=lfs -text
+**/processed/**/*.csv filter=lfs diff=lfs merge=lfs -text
+**/processed/**/*.mpt filter=lfs diff=lfs merge=lfs -text
+**/processed/**/*.ccs filter=lfs diff=lfs merge=lfs -text
+**/processed/**/*.parquet filter=lfs diff=lfs merge=lfs -text
+**/processed/**/*.nda filter=lfs diff=lfs merge=lfs -text
+**/processed/**/*.ndx filter=lfs diff=lfs merge=lfs -text
